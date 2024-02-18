@@ -1,0 +1,6 @@
+*.md
+*.png
+*.pds
+
+.venv
+.vscode
